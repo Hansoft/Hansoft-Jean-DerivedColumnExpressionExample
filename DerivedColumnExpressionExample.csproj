@@ -63,8 +63,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ChildCounter.cs" />
-    <Compile Include="AggregatePassCounter.cs" />
-    <Compile Include="SuccessCalculator.cs" />
     <Compile Include="Shadowing.cs" />
     <Compile Include="CompletionCounter.cs" />
     <Compile Include="Portfolio.cs" />
